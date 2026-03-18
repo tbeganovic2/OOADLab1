@@ -2,7 +2,8 @@ import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class Main {
-
+    //Ovo je testni komentar
+    //Test
     public static final int N = 10000;
     public static final int NUM_THREADS = 50;
 
